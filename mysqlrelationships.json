@@ -1,0 +1,363 @@
+{
+  "id": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+  "name": "mysqlrelationships",
+  "timestamp": 1453901138081,
+  "requests": [
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "01bece89-3558-34a2-f849-b3d89b1e0c5e",
+      "name": "http://localhost:1337/group",
+      "description": "",
+      "url": "http://localhost:1337/group",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testgroup3",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "0495e37b-621c-0e9d-5074-4dddf918adbb",
+      "name": "http://localhost:1337/user",
+      "description": "",
+      "url": "http://localhost:1337/user",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testuser4",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "0ce13e7a-37f7-a752-60a1-b93673c9e952",
+      "name": "http://localhost:1337/user",
+      "description": "",
+      "url": "http://localhost:1337/user",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testuser3",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "1654cebc-42ec-8248-bd59-d615ef1de75b",
+      "name": "http://localhost:1337/todo",
+      "description": "",
+      "url": "http://localhost:1337/todo",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testtodo5",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "2aae1ffa-252a-7cd8-bf09-ae36d3c23949",
+      "name": "http://localhost:1337/user/1/addgroup/4",
+      "description": "",
+      "url": "http://localhost:1337/user/1/addgroup/4",
+      "method": "POST",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "2f11e2b5-f4b8-b56e-4c97-64cc2cba2fa7",
+      "name": "http://localhost:1337/group",
+      "description": "",
+      "url": "http://localhost:1337/group",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testgroup2",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "301013fc-8b81-3ced-2237-ce6556cf1fba",
+      "name": "http://localhost:1337/group",
+      "description": "",
+      "url": "http://localhost:1337/group",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testgroup1",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "573ce609-65dd-723f-6d18-8fbed5a79f4d",
+      "name": "http://localhost:1337/group",
+      "description": "",
+      "url": "http://localhost:1337/group",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testgroup5",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "6adedefa-48d2-f394-35a0-0dc34a8b0d83",
+      "name": "http://localhost:1337/todo",
+      "description": "",
+      "url": "http://localhost:1337/todo",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testtodo2",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "8649b047-4d73-e9e9-4d6c-0cc29ca98a20",
+      "name": "http://localhost:1337/user",
+      "description": "",
+      "url": "http://localhost:1337/user",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testuser1",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "8ce294c2-1e1e-4dd1-9e17-4d4a9d4ae70f",
+      "name": "http://localhost:1337/todo",
+      "description": "",
+      "url": "http://localhost:1337/todo",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testtodo4",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "8db72e33-f2e7-95f7-3cf5-58884b35e721",
+      "name": "http://localhost:1337/todo",
+      "description": "",
+      "url": "http://localhost:1337/todo",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testtodo3",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "95cebb3e-91da-7b2f-f052-d11f976fa53a",
+      "name": "http://localhost:1337/user",
+      "description": "",
+      "url": "http://localhost:1337/user",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testuser5",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "b4cc7b5f-2e8f-3d63-7f59-1f2189370832",
+      "name": "http://localhost:1337/todo",
+      "description": "",
+      "url": "http://localhost:1337/todo",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testtodo1",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "bbdd52c9-bc0d-725c-7f44-66aed5c761c1",
+      "name": "http://localhost:1337/group",
+      "description": "",
+      "url": "http://localhost:1337/group",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testgroup4",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "cd1663a4-e0e4-1561-f38d-3a77ec23191f",
+      "name": "http://localhost:1337/user",
+      "description": "",
+      "url": "http://localhost:1337/user",
+      "method": "POST",
+      "headers": "",
+      "data": [
+        {
+          "key": "name",
+          "value": "testuser2",
+          "type": "text"
+        }
+      ],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "cda02a82-086e-bef6-5405-acaf244f6374",
+      "name": "http://localhost:1337/user/1/addgroup/5",
+      "description": "",
+      "url": "http://localhost:1337/user/1/addgroup/5",
+      "method": "POST",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "ceb27e41-3ecb-9ff6-10fa-d36ef1ef88dc",
+      "name": "http://localhost:1337/user/1/addtodo/2",
+      "description": "",
+      "url": "http://localhost:1337/user/1/addtodo/2",
+      "method": "POST",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "149f6380-c6ac-8147-2d2a-079d3fe387a2",
+      "id": "f765f013-9e39-d48a-3ad3-33239b39568f",
+      "name": "http://localhost:1337/user/1/addtodo/1",
+      "description": "",
+      "url": "http://localhost:1337/user/1/addtodo/1",
+      "method": "POST",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    }
+  ]
+}
